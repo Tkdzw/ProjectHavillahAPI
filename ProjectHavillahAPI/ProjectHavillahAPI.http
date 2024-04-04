@@ -1,0 +1,6 @@
+@ProjectHavillahAPI_HostAddress = http://localhost:5020
+
+GET {{ProjectHavillahAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
